@@ -2,11 +2,11 @@
 header{
   color: #00dd00;
 }
- body{
-   background-color: black;
-   background-image: url(background.jpg);
-   background-size: cover;
-   background-repeat: no-repeat;
+body{
+  background-color: black;
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 #quadrato{
   border-radius: 25px;
@@ -19,11 +19,11 @@ header{
 
 }
 main{
- color:white;
+  color:white;
 }
 
 .logo{
-margin:auto;
+  margin:auto;
 }
 .greenbar{
   position: relative;
@@ -31,7 +31,7 @@ margin:auto;
   height: 40px;
   width: 80%;
   background-color: #00dd00;
-text-align: center;
+  text-align: center;
 }
 #testo{
   margin-top: 40px;
@@ -40,13 +40,13 @@ text-align: center;
 }
 /*debug */
 .bottoni{
-margin-bottom: 10px;
-margin: 0;
-position: absolute;
-top: 50%;
-left: 50%;
--ms-transform: translate(-50%, -50%);
-transform: translate(-50%, -50%);
+  margin-bottom: 10px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 .mezzoCarico{
   border-radius: 10px;
